@@ -1,0 +1,10 @@
+.result-div{
+    margin-top: 70px;
+}
+
+.result-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
